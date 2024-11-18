@@ -1,0 +1,43 @@
+.header1 {
+  height: 100px;
+  background: #fff2c0;
+  padding: 10px;
+}
+
+nav > ul > li {
+  padding: 0px 145px 0px 0px;
+}
+nav > ul > li:hover {
+  display: block;
+  background: rgb(252, 184, 184) !important;
+}
+.menu_left1 {
+  width: 300px;
+  float: left;
+  margin-left: 15px;
+  font-weight: bold;
+}
+.menu_left1 > a:hover {
+  display: inline-block;
+  background: rgb(159, 202, 5);
+}
+.menu_left1 > nav > ul > li:hover {
+  display: inline-block;
+  background: rgb(159, 202, 5);
+}
+.footer1 {
+  height: 70px;
+  background: #fff2c0;
+}
+.dd1 {
+  width: 600px;
+}
+.content1 {
+  height: 600px;
+  width: 908px;
+
+  padding: 40px;
+}
+.dd3 {
+  color: black;
+}
